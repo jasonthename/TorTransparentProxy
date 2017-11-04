@@ -1,0 +1,7 @@
+VirtualAddrNetworkIPv4 10.192.0.0/10
+AutomapHostsOnResolve 1
+
+RunAsDaemon 1
+User debian-tor
+DNSPort 5300
+TransPort 9040
